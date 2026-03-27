@@ -1,11 +1,11 @@
-![masterhead]()
+<img align="center" width="700" height="150" alt="imagen" src="https://github.com/user-attachments/assets/3cbbd829-522a-49cd-be91-19afee8c37e3"/>
 
 ## Hi there 👋
 
 <h1 align="center">Hola 👋, soy MARCELO CATALAN LÓPEZ</h1>
 <h3 align="center">ING. EJECUCION INDUSTRIAL / FRONT-END TRAINEE</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWx1cjk3ZWZ1Y2VncWY3ZWx0d3A1aG90MjluZGN5aHJzajZsZGJteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif ">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWx1cjk3ZWZ1Y2VncWY3ZWx0d3A1aG90MjluZGN5aHJzajZsZGJteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/? username=mcatalan2010-ops&label=Perfil%20views&color=0e75b6&style=flat" alt="mcatalan2010-ops" /> </p>
 
