@@ -18,8 +18,16 @@ Me gusta alcanzar mis desafios, las metas que aveces parecen inalcanzables, pero
 
 ##
 
+<h2>Areas de especializacion</h2>
 
+<li>Ingeniero ejecucion Industrial mencion quimica</li>
+<li>Implementación de Sistemas HACCP para Productos de Origen Pecuario</li>
+<li>Diplomado Planificación y Control de Gestión</li>
+<li>Diplomado en Emprendimiento Avanzado para la Educación Superior</li>
 
+##
+
+<h2>Proyecto Destacado</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/marcelo-catalan-43397b6b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/giuldkjain/gildhub-profile-generation/master/src/
