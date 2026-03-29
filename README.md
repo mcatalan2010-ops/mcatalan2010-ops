@@ -50,9 +50,8 @@
 
 ##
 
-- 📫 Cómo contactarme: **mcatalan2010@gmail.com**
-- ![LinkedIn](https://img.shields.io)
- **https://www.linkedin.com/in/marcelo-catalan-43397b6b**
+- email: **mcatalan2010@gmail.com**
+- linkedIn: **https://www.linkedin.com/in/marcelo-catalan-43397b6b**
 
 
 
