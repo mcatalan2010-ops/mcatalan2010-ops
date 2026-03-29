@@ -30,7 +30,11 @@
 
 <h2>Proyecto Destacado</h2>
 
-<h2 color="blue">Aplicacion Web Para Control del Clima en La Region de La Araucania</h2>
+<h3 align="left">Aplicacion Web Para Control del Clima en La Region de La Araucania</h3>
+
+<p>Aplicacion para control del clima en la Region de la Araucania. revisando el clima para principales ciudades como Temuco, Pucon, Loncoche, Angol, Collipulli, Los Alamos, entre otras</p>
+
+<p>Sistema que entrega informacion del clima para tres dias de pronostico real con control estadistico e informacion importante para cada localizacion</p>
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/marcelo-catalan-43397b6b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/giuldkjain/gildhub-profile-generation/master/src/
