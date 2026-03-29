@@ -51,9 +51,8 @@
 ##
 
 - 📫 Cómo contactarme: **mcatalan2010@gmail.com**
-- <a href="www.linkedin.com/in/marcelo-catalan-43397b6b">
-  <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="15px" /><p>in/marcelo</p>
-</a>
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]<p>(https://www.linkedin.com/in/marcelo-catalan-43397b6b)</p>
+
 
 
 
