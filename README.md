@@ -1,20 +1,21 @@
 <img align="center" width="1020" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWx1cjk3ZWZ1Y2VncWY3ZWx0d3A1aG90MjluZGN5aHJzajZsZGJteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
 
-## Hi there 👋
-
+## 
 <h1 align="center">Hola 👋, soy MARCELO CATALAN LÓPEZ</h1>
-<h3 align="center">ING. EJECUCION INDUSTRIAL / FRONT-END TRAINEE</h3>
+<h3 align="center">ING. EJECUCION INDUSTRIAL / DESARROLLADOR FRONT-END TRAINEE</h3>
 <h3 align="center">Angol, Region de la Araucania, Chile</h3>
 
 ##
 
 <h2>Mi Historia</h2>
 
-Soy Ingeniero Ejecución Industrial con mención Química de la UFRO de Temuco, con 18 años de experiencia en diferentes industrias nacionales. Con una alta capacidad para asumir diferentes tipos de responsabilidades productivas, administrativas, de planificación o de control. Capaz de organizar múltiples tareas, dirigir e integrar equipos de trabajo, elaborar y desarrollar diferentes proyectos, responder a exigencias de tiempo, y desempeñarse en un ambiente de trabajo orientado a obtener objetivos.
+<p>Soy Ingeniero Ejecución Industrial con mención Química de la UFRO de Temuco, con 18 años de experiencia en diferentes industrias nacionales. Con una alta capacidad para asumir diferentes tipos de responsabilidades productivas, administrativas, de planificación o de control. Capaz de organizar múltiples tareas, dirigir e integrar equipos de trabajo, elaborar y desarrollar diferentes proyectos, responder a exigencias de tiempo, y desempeñarse en un ambiente de trabajo orientado a obtener objetivos.</p>
 
-Profesional preparado para dictar diferentes asignaturas en el ámbito de la educación técnico profesional, con 13 años de experiencia. Buscando siempre el máximo aprendizaje del alumno, en su faceta educacional como en su formación personal y profesional. Actualmente docente del Liceo Agricola el vergel de Angol.
+<p>Profesional preparado para dictar diferentes asignaturas en el ámbito de la educación técnico profesional, con 13 años de experiencia. Buscando siempre el máximo aprendizaje del alumno, en su faceta educacional como en su formación personal y profesional. Actualmente docente del Liceo Agricola el vergel de Angol.</p>
 
-Me gusta alcanzar mis desafios, las metas que aveces parecen inalcanzables, pero con la ayuda de Dios todo es mas facil.
+<p>Comenzando mi nuevo desafio como desarrollador front-end.</p>
+
+<p>Me gusta alcanzar mis desafios, las metas que aveces parecen inalcanzables, pero con la ayuda de Dios todo es mas facil.</p>
 
 ##
 
@@ -28,6 +29,8 @@ Me gusta alcanzar mis desafios, las metas que aveces parecen inalcanzables, pero
 ##
 
 <h2>Proyecto Destacado</h2>
+
+<h2 color="blue">Aplicacion Web Para Control del Clima en La Region de La Araucania</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/marcelo-catalan-43397b6b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/giuldkjain/gildhub-profile-generation/master/src/
