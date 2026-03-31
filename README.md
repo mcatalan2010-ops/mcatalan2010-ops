@@ -15,7 +15,7 @@
 
 <p>Comenzando mi nuevo desafio como desarrollador front-end.</p>
 
-<p>Me gusta alcanzar mis desafios, las metas que aveces parecen inalcanzables, pero con la ayuda de Dios todo es mas facil.</p>
+<p>Me gusta alcanzar mis desafios, las metas que a veces parecen inalcanzables, pero con la ayuda de Dios todo es mas facil.</p>
 
 ##
 
